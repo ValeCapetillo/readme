@@ -12,7 +12,7 @@ El próximo año me titulo de Ingeniera en informática.
 <ul>
   <li>📍 Chile.</li>
   <li>👩‍💻 Tengo 33 años.</li>
-  <li> Me encanta viajar. 🇬🇧🤖🥇🇨🇱🇦🇷🇦🇪🇲🇫🇪🇸🇮🇹🇨🇴🇨🇦</li>
+  <li> Me encanta viajar. 🇬🇧🤖🥇🇨🇱 🇦🇷 🇦🇪 🇲🇫 🇪🇸 🇮🇹 🇨🇴 🇨🇦</li>
   <li>
     💻 Actualmente ayudo a colegios a transformarse digitalmente.
   </li>
@@ -50,8 +50,7 @@ El próximo año me titulo de Ingeniera en informática.
 <p align="left">
   <strong>
    Conectemos en LinkedIn
-    <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank">
-    </a>
+    <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank">   </a>
     
   </strong>
 </p>
