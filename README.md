@@ -35,11 +35,7 @@ El próximo año me titulo de Ingeniera en informática.
   
   <li>⭐ Presidenta Nacional en Mas Mujeres en Las TICS</li>
   <a href="https://www.instagram.com/reel/CuPUX_bAc0H/" target="_blank">
-    <img
-      src="🎥"
-      alt="Reel"
-     
-  </a>
+     </a>
    <li>Jueza en competencias nacionales de robótica en Fundacion Mustakis.</li>
 
 
