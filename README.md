@@ -49,6 +49,6 @@ El próximo año me titulo de Ingeniera en informática.
 
 <p align="left">
    Conectemos en LinkedIn
-    <a href="www.linkedin.com/com/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank">   </a>
+    <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank">   </a>
 </p>
 
