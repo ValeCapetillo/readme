@@ -33,14 +33,13 @@ El próximo año me titulo de Ingeniera en informática.
 <p><strong>Voluntariados</strong></p>
 <ul>
   
-  <li>⭐ Presidenta Nacional en Mas Mujeres en Las TICS</li>
-  <a href="https://www.instagram.com/reel/CuPUX_bAc0H/" target="_blank">
-     </a>
-   <li>Jueza en competencias nacionales de robótica en Fundacion Mustakis.</li>
+  <li>⭐<a href="https://www.instagram.com/reel/CuPUX_bAc0H/"> Presidenta en Más Mujeres en las TICS </a>
+
+  <li>Jueza en competencias nacionales de robótica en Fundacion Mustakis.</li>
 
 
 
    <li>Conectemos en LinkedIn
    <a href="https:///www.linkedin.com/in/valeriacapetillo/" target="_blank">  /a> 
-   <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank">Seguir</a>" </li>
+   <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank"> Seguir</a> </li>
 </ul>
