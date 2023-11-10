@@ -12,34 +12,25 @@ El próximo año me titulo de Ingeniera en informática.
 <ul>
   <li>📍 Chile.</li>
   <li>👩‍💻 Tengo 33 años.</li>
-  <li> Me encanta viajar. 🇬🇧🤖🥇🇨🇱 🇦🇷 🇦🇪 🇲🇫 🇪🇸 🇮🇹 🇨🇴 🇨🇦</li>
-  <li>
-    💻 Actualmente ayudo a colegios a transformarse digitalmente.
-  </li>
-  <li>🧐 Intereses: Liderar equipo innovadores </li>
+  <li>✈️ Me encanta viajar. </li>
+  <li>💻Actualmente ayudo a colegios a transformarse digitalmente. </li>
+  <li> Intereses: Liderar equipo innovadores </li>
 </ul>
 
-<p>
-  <strong>Hobbies</strong>
-</p>
-<ul>
-  <li>
-    Soy campeona Latinoamericana de Robótica
-  </li>
+<h2>
+  Hobbies
+</h2>
+  <li>🤖🥇Soy campeona Latinoamericana de Robótica  </li>
   <li> Outfits</li>
-  <li> Decoracion</li>
+  <li> Decoracion </li>
 </ul>
 
-<p><strong>Voluntariados</strong></p>
-<ul>
-  
+<h2> Voluntariados</h2>
+<ul>  
   <li>⭐<a href="https://www.instagram.com/reel/CuPUX_bAc0H/"> Presidenta en Más Mujeres en las TICS </a>
-
   <li>Jueza en competencias nacionales de robótica en Fundacion Mustakis.</li>
-
-
-
-   <li>Conectemos en LinkedIn
-   <a href="https:///www.linkedin.com/in/valeriacapetillo/" target="_blank">  /a> 
-   <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank"> Seguir</a> </li>
 </ul>
+
+<h2>Conectemos en LinkedIn </h2>
+  <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank"> ¡Seguir! </a> 
+
