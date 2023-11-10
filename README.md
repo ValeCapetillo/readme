@@ -45,34 +45,14 @@ El próximo año me titulo de Ingeniera en informática.
    <li>Jueza en competencias nacionales de robótica en Fundacion Mustakis.</li>
 </ul>
 
----
 
-<p align="left">
-   Conectemos en LinkedIn
+   <li>Coenctemos en Linked In</li>
    <a href="https:///www.linkedin.com/in/valeriacapetillo/" target="_blank">
     <img
-      src="
-      <style>
-        .libutton {
-          display: flex;
-          flex-direction: column;
-          justify-content: center;
-          padding: 7px;
-          text-align: center;
-          outline: none;
-          text-decoration: none !important;
-          color: #ffffff !important;
-          width: 200px;
-          height: 32px;
-          border-radius: 16px;
-          background-color: #0A66C2;
-          font-family: "SF Pro Text", Helvetica, sans-serif;
-        }
-      </style>
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank">Follow on LinkedIn</a>"
-      alt="Reel"
-      width="150"
-      height="150"
+      src=" https:///www.linkedin.com/in/valeriacapetillo/"
+    </>
+     <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank">Follow on LinkedIn</a>"
+     
     />
  
 </p>
