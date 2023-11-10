@@ -38,22 +38,15 @@ El próximo año me titulo de Ingeniera en informática.
     <img
       src="https://www.instagram.com/reel/CuPUX_bAc0H/c"
       alt="Reel"
-      width="150"
-      height="150"
-    />
+     
   </a>
    <li>Jueza en competencias nacionales de robótica en Fundacion Mustakis.</li>
-</ul>
 
 
-   <li>Coenctemos en Linked In</li>
-   <a href="https:///www.linkedin.com/in/valeriacapetillo/" target="_blank">
-    <img
-      src=" https:///www.linkedin.com/in/valeriacapetillo/"
-    </>
-     <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank">Follow on LinkedIn</a>"
+
+   <li>Conectemos en LinkedIn</li>
+   <a href="https:///www.linkedin.com/in/valeriacapetillo/" target="_blank">  /a>
+   <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank">Seguir</a>"
      
-    />
- 
-</p>
-
+   </p>
+</ul>
