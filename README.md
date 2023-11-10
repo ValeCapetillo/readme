@@ -1,10 +1,11 @@
-<h1 align="center">Hola a todos!! 👋 Mi nombre es Valeria Capetillo, pero todos me llaman Vale.</h1>
+<h1 align="center">¡Hola mundo! 👋 Mi nombre es Valeria Capetillo, pero todos me llaman Vale.</h1>
 <p align="center">
-  Soy profesora de ingles, apasaionada por el diseño y la tecnología. 
+  Soy profesora de inglés, apasaionada por el diseño y la tecnología. 
   </p>
 <p align="center">
-El próximo año me titulo de Ingeniera en informática.
-  </p>
+  <i> El próximo año me titulo de Ingeniera en informática.
+  </i>
+</p>
 
 <h2>
   <strong>Sobre mi</strong>
