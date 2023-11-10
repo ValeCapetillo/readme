@@ -36,7 +36,7 @@ El próximo año me titulo de Ingeniera en informática.
   <li>⭐ Presidenta Nacional en Mas Mujeres en Las TICS</li>
   <a href="https://www.instagram.com/reel/CuPUX_bAc0H/" target="_blank">
     <img
-      src="https://www.instagram.com/reel/CuPUX_bAc0H/c"
+      src="🎥"
       alt="Reel"
      
   </a>
@@ -47,6 +47,4 @@ El próximo año me titulo de Ingeniera en informática.
    <li>Conectemos en LinkedIn</li>
    <a href="https:///www.linkedin.com/in/valeriacapetillo/" target="_blank">  /a>
    <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=valeriacapetillo" target="_blank">Seguir</a>"
-     
-   </p>
 </ul>
